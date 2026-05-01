@@ -5,22 +5,6 @@ Witness Statement Processing: The system allows investigators to input verbatim 
 Iterative Refinement with Feature Locking: Investigators can refine sketches through incremental text feedback (e.g., "narrower nose"). The "Feature Locks" mechanism ensures that confirmed features remain unchanged during subsequent AI iterations, maintaining the integrity of the sketch.
 Forensic Audit & Versioning: The platform maintains a complete version history of every iteration, including SHA-256 hashes for cryptographic verification of the audit trail. This ensures that the evolution of the sketch is documented and admissible for legal proceedings.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
