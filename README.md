@@ -3,7 +3,6 @@ FaceForge is a specialized forensic digital composite application designed for l
 Key Features:
 Witness Statement Processing: The system allows investigators to input verbatim interview transcripts. It then automatically extracts key physiological data—such as age, skin tone, hair style, eye shape, and distinguishing marks (e.g., scars or stubble)—to build an initial composite.
 Iterative Refinement with Feature Locking: Investigators can refine sketches through incremental text feedback (e.g., "narrower nose"). The "Feature Locks" mechanism ensures that confirmed features remain unchanged during subsequent AI iterations, maintaining the integrity of the sketch.
-Forensic Audit & Versioning: The platform maintains a complete version history of every iteration, including SHA-256 hashes for cryptographic verification of the audit trail. This ensures that the evolution of the sketch is documented and admissible for legal proceedings.
 
 # React + Vite
 
